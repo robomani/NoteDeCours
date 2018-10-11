@@ -1,0 +1,16 @@
+<root>
+    <ints>
+        <int index="0"/>
+        <int index="1"/>
+        <int index="2"/>
+        <int index="3"/>
+        <int index="4"/>
+    </ints>
+    <strings>
+        <string index="0">string #0</string>
+        <string index="1">string #1</string>
+        <string index="2">string #2</string>
+        <string index="3">string #3</string>
+        <string index="4">string #4</string>
+    </strings>
+</root>

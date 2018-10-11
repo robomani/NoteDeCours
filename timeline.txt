@@ -1,0 +1,5 @@
+Track group: Regroupe des choses pour organiser
+Activation track : active des evenement ou objet
+Animation track : Anime des objets à même la timeline 
+audio Track: fait jouer un son ou arrêter un son
+Contrôle track/ Playable track : contrôle d'autres timeline.

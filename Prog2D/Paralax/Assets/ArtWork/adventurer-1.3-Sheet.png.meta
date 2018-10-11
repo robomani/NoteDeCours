@@ -1,0 +1,1553 @@
+fileFormatVersion: 2
+guid: b00efbae7dc9ce54eb25a887d4e19b65
+timeCreated: 1527255413
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: adventurer-1.3-Sheet_0
+    21300002: adventurer-1.3-Sheet_1
+    21300004: adventurer-1.3-Sheet_2
+    21300006: adventurer-1.3-Sheet_3
+    21300008: adventurer-1.3-Sheet_4
+    21300010: adventurer-1.3-Sheet_5
+    21300012: adventurer-1.3-Sheet_6
+    21300014: adventurer-1.3-Sheet_7
+    21300016: adventurer-1.3-Sheet_8
+    21300018: adventurer-1.3-Sheet_9
+    21300020: adventurer-1.3-Sheet_10
+    21300022: adventurer-1.3-Sheet_11
+    21300024: adventurer-1.3-Sheet_12
+    21300026: adventurer-1.3-Sheet_13
+    21300028: adventurer-1.3-Sheet_14
+    21300030: adventurer-1.3-Sheet_15
+    21300032: adventurer-1.3-Sheet_16
+    21300034: adventurer-1.3-Sheet_17
+    21300036: adventurer-1.3-Sheet_18
+    21300038: adventurer-1.3-Sheet_19
+    21300040: adventurer-1.3-Sheet_20
+    21300042: adventurer-1.3-Sheet_21
+    21300044: adventurer-1.3-Sheet_22
+    21300046: adventurer-1.3-Sheet_23
+    21300048: adventurer-1.3-Sheet_24
+    21300050: adventurer-1.3-Sheet_25
+    21300052: adventurer-1.3-Sheet_26
+    21300054: adventurer-1.3-Sheet_27
+    21300056: adventurer-1.3-Sheet_28
+    21300058: adventurer-1.3-Sheet_29
+    21300060: adventurer-1.3-Sheet_30
+    21300062: adventurer-1.3-Sheet_31
+    21300064: adventurer-1.3-Sheet_32
+    21300066: adventurer-1.3-Sheet_33
+    21300068: adventurer-1.3-Sheet_34
+    21300070: adventurer-1.3-Sheet_35
+    21300072: adventurer-1.3-Sheet_36
+    21300074: adventurer-1.3-Sheet_37
+    21300076: adventurer-1.3-Sheet_38
+    21300078: adventurer-1.3-Sheet_39
+    21300080: adventurer-1.3-Sheet_40
+    21300082: adventurer-1.3-Sheet_41
+    21300084: adventurer-1.3-Sheet_42
+    21300086: adventurer-1.3-Sheet_43
+    21300088: adventurer-1.3-Sheet_44
+    21300090: adventurer-1.3-Sheet_45
+    21300092: adventurer-1.3-Sheet_46
+    21300094: adventurer-1.3-Sheet_47
+    21300096: adventurer-1.3-Sheet_48
+    21300098: adventurer-1.3-Sheet_49
+    21300100: adventurer-1.3-Sheet_50
+    21300102: adventurer-1.3-Sheet_51
+    21300104: adventurer-1.3-Sheet_52
+    21300106: adventurer-1.3-Sheet_53
+    21300108: adventurer-1.3-Sheet_54
+    21300110: adventurer-1.3-Sheet_55
+    21300112: adventurer-1.3-Sheet_56
+    21300114: adventurer-1.3-Sheet_57
+    21300116: adventurer-1.3-Sheet_58
+    21300118: adventurer-1.3-Sheet_59
+    21300120: adventurer-1.3-Sheet_60
+    21300122: adventurer-1.3-Sheet_61
+    21300124: adventurer-1.3-Sheet_62
+    21300126: adventurer-1.3-Sheet_63
+    21300128: adventurer-1.3-Sheet_64
+    21300130: adventurer-1.3-Sheet_65
+    21300132: adventurer-1.3-Sheet_66
+    21300134: adventurer-1.3-Sheet_67
+    21300136: adventurer-1.3-Sheet_68
+    21300138: adventurer-1.3-Sheet_69
+    21300140: adventurer-1.3-Sheet_70
+    21300142: adventurer-1.3-Sheet_71
+    21300144: adventurer-1.3-Sheet_72
+    21300146: adventurer-1.3-Sheet_73
+    21300148: adventurer-1.3-Sheet_74
+    21300150: adventurer-1.3-Sheet_75
+    21300152: adventurer-1.3-Sheet_76
+    21300154: adventurer-1.3-Sheet_77
+    21300156: adventurer-1.3-Sheet_78
+    21300158: adventurer-1.3-Sheet_79
+    21300160: adventurer-1.3-Sheet_80
+    21300162: adventurer-1.3-Sheet_81
+    21300164: adventurer-1.3-Sheet_82
+    21300166: adventurer-1.3-Sheet_83
+    21300168: adventurer-1.3-Sheet_84
+    21300170: adventurer-1.3-Sheet_85
+    21300172: adventurer-1.3-Sheet_86
+    21300174: adventurer-1.3-Sheet_87
+    21300176: adventurer-1.3-Sheet_88
+    21300178: adventurer-1.3-Sheet_89
+    21300180: adventurer-1.3-Sheet_90
+    21300182: adventurer-1.3-Sheet_91
+    21300184: adventurer-1.3-Sheet_92
+    21300186: adventurer-1.3-Sheet_93
+    21300188: adventurer-1.3-Sheet_94
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 408
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 408
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 408
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 408
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 408
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 408
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 408
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 408
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 371
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 371
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 371
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 371
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 371
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 371
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 371
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 371
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 336
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 342
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 342
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 343
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 339
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 340
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 338
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 338
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 297
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 297
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 297
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 297
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 297
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 296
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 296
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 296
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 259
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 261
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 263
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 264
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 266
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 266
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 260
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 260
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 223
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 223
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 223
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 223
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 223
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 223
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 223
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 223
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 186
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 186
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 186
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 186
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 186
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 186
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 186
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 186
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 149
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 149
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 149
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 149
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 149
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 149
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 149
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 149
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 112
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 112
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 112
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 112
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 112
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 112
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 112
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 75
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 75
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 75
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 75
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 75
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 75
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 75
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 77
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 39
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 38
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 39
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 37
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 38
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 41
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 3
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 5
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: adventurer-1.3-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 5
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

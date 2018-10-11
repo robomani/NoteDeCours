@@ -1,0 +1,4 @@
+﻿  AlgoLab2.cpp
+u:\algolab2\algolab2\algolab2.cpp(78): warning C4715: 'AskNext' : les chemins de contrôle ne retournent pas tous une valeur
+  AlgoLab2.vcxproj -> U:\AlgoLab2\Debug\AlgoLab2.exe
+  AlgoLab2.vcxproj -> U:\AlgoLab2\Debug\AlgoLab2.pdb (Partial PDB)

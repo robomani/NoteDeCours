@@ -1,0 +1,82 @@
+# Tamagochi
+
+class Critter(object):
+    """A virtual pet"""
+    def __init__(self, name, hunger = 0, boredom = 0):
+        self.name = name
+        self.hunger = hunger
+        self.boredom = boredom
+
+    def __passTime(self):
+        if self.hunger < 10:
+            self.hunger += 1
+        if self.boredom < 10:
+            self.boredom += 1
+        
+
+    @property
+    def mood(self):
+        unhappiness = self.hunger + self.boredom
+        if unhappiness < 5:
+            m = "happy"
+        elif unhappiness <= 10:
+            m = "okay"
+        else:
+            m = "mad"
+        return m
+
+    def talk(self):
+        print("I'm", self.name, "and I fell", self.mood, "now. \n")
+        self.__passTime()
+
+    def eat(self, food = 5):
+        print("Buuuuuurppppppp. Thank you.")
+        self.hunger -= food
+        if self.hunger < 0:
+            self.hunger = 0
+        self.__passTime()
+
+    def play(self, fun = 5):
+        print("Weeeeee!")
+        self.boredom -= fun
+        if self.boredom < 0:
+            self.boredom = 0
+        self.__passTime()
+
+def main():
+    crit_name = input("How do you want to name your critter?: ")
+    crit = Critter(crit_name)
+
+    choice = None
+    while choice != "0":
+        print \
+        ("""
+        Critter CareTaker
+
+        0 - Quit
+        1 - Listen to your critter
+        2 - Feed your critter
+        3 - play with your critter
+        """)
+
+        choice = input("Choice: ")
+        print()
+
+        if choice == "0":
+            print("Good bye")
+        elif choice == "1":
+            crit.talk()
+        elif choice == "2":
+            crit.eat()
+        elif choice == "3":
+            crit.play()
+        else:
+            print("\nSorry, but", choice, "isin't a valid choice")
+
+main()
+input("\n\nPress the enter key to exit.")
+        
+
+
+#    @staticmethod
+

@@ -1,0 +1,7 @@
+# Calculator
+# Demonstrate the operator
+
+nbApples = int(input("Enter the number of apples you desire: "))
+nbCabbages = int(input("Enter the number of cabbages you desire: "))
+
+print("Your total of things is:", nbApples + nbCabbages)

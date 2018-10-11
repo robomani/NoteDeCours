@@ -1,0 +1,6 @@
+﻿  TP1.cpp
+u:\algo\tp1\tp1\tp1.cpp(409): warning C4715: 'block5_choix' : les chemins de contrôle ne retournent pas tous une valeur
+u:\algo\tp1\tp1\tp1.cpp(624): warning C4715: 'block10_Armee' : les chemins de contrôle ne retournent pas tous une valeur
+u:\algo\tp1\tp1\tp1.cpp(731): warning C4715: 'block11_Combat' : les chemins de contrôle ne retournent pas tous une valeur
+  TP1.vcxproj -> U:\algo\TP1\Debug\TP1.exe
+  TP1.vcxproj -> U:\algo\TP1\Debug\TP1.pdb (Partial PDB)

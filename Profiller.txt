@@ -1,0 +1,3 @@
+Profiler à record
++ important CPU Usage et Rendering
+Time ms + Total % + GC alloc

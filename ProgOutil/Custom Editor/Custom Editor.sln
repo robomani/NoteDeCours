@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom Editor", "Custom Editor.csproj", "{D3C17532-18BD-10C0-4B77-AEC1BCC430B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom Editor.Editor", "Custom Editor.Editor.csproj", "{B9B70A10-2531-5572-B119-7D72E2EB407C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C17532-18BD-10C0-4B77-AEC1BCC430B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C17532-18BD-10C0-4B77-AEC1BCC430B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C17532-18BD-10C0-4B77-AEC1BCC430B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C17532-18BD-10C0-4B77-AEC1BCC430B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B70A10-2531-5572-B119-7D72E2EB407C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B70A10-2531-5572-B119-7D72E2EB407C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B70A10-2531-5572-B119-7D72E2EB407C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B70A10-2531-5572-B119-7D72E2EB407C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

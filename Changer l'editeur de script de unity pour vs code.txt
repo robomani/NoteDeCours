@@ -1,0 +1,11 @@
+unity
+edit
+preference
+external tools
+external scrip editor
+browse
+windos 7
+programme
+microsoft vs code
+code.exe
+ouvrir

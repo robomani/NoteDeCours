@@ -1,0 +1,4 @@
+FBX
+geometry->smoothing groups
+animation -> décocher si pas d'animation
+advanced option -> FBX file format -> version FBX2014/2015

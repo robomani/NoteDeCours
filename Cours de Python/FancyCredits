@@ -1,0 +1,18 @@
+#Fancy Crdits
+#Demonstrate escape sequences
+
+print("\t\tFancy Credits")
+print("\t\t\t \\ \\ \\ \\ \\ \\ \\")
+print("\t\t\tBy")
+print("\t\t\tErebe")
+print("\t\t\t \\ \\ \\ \\ \\ \\ \\")
+
+print("\nSpecial thanks to:")
+print("My inspirationnal friend X \'The magnificient,\' who never says\"can\'t.\"")
+
+quote = "Fake "
+quote1 = "news "
+quote2 = "everywhere."
+
+finalQuote = quote + quote1 + quote2
+print(finalQuote)

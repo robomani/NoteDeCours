@@ -1,0 +1,11 @@
+D:\Users\1810078\Desktop\NotesDeCoursAML\SystemAvancer\RevisionPartielle\RevisionPartielle\bin\Debug\RevisionPartielle.exe.config
+D:\Users\1810078\Desktop\NotesDeCoursAML\SystemAvancer\RevisionPartielle\RevisionPartielle\bin\Debug\RevisionPartielle.exe
+D:\Users\1810078\Desktop\NotesDeCoursAML\SystemAvancer\RevisionPartielle\RevisionPartielle\bin\Debug\RevisionPartielle.pdb
+D:\Users\1810078\Desktop\NotesDeCoursAML\SystemAvancer\RevisionPartielle\RevisionPartielle\obj\Debug\RevisionPartielle.csprojAssemblyReference.cache
+D:\Users\1810078\Desktop\NotesDeCoursAML\SystemAvancer\RevisionPartielle\RevisionPartielle\obj\Debug\RevisionPartielle.csproj.CoreCompileInputs.cache
+D:\Users\1810078\Desktop\NotesDeCoursAML\SystemAvancer\RevisionPartielle\RevisionPartielle\obj\Debug\RevisionPartielle.exe
+D:\Users\1810078\Desktop\NotesDeCoursAML\SystemAvancer\RevisionPartielle\RevisionPartielle\obj\Debug\RevisionPartielle.pdb
+D:\Users\1810078\Desktop\NotesDeCoursAML\SystemAvancer\RevisionPartielle\RevisionPartielle\bin\Debug\Newtonsoft.Json.dll
+D:\Users\1810078\Desktop\NotesDeCoursAML\SystemAvancer\RevisionPartielle\RevisionPartielle\bin\Debug\Newtonsoft.Json.xml
+D:\Users\1810078\Desktop\NotesDeCoursAML\SystemAvancer\RevisionPartielle\RevisionPartielle\obj\Debug\RevisionPartielle.csproj.CopyComplete
+D:\Users\1810078\Desktop\NotesDeCoursAML\SystemAvancer\RevisionPartielle\RevisionPartielle\bin\Debug\people.json
