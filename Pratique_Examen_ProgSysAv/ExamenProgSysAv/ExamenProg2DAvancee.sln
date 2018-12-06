@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenProg2DAvancee", "ExamenProg2DAvancee.csproj", "{220AD467-6916-8409-9E24-B34B0DB16AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenProg2DAvancee.Editor", "ExamenProg2DAvancee.Editor.csproj", "{AA5CDDC6-C035-82E3-E69E-128E1C6E31F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{220AD467-6916-8409-9E24-B34B0DB16AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220AD467-6916-8409-9E24-B34B0DB16AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220AD467-6916-8409-9E24-B34B0DB16AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220AD467-6916-8409-9E24-B34B0DB16AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA5CDDC6-C035-82E3-E69E-128E1C6E31F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5CDDC6-C035-82E3-E69E-128E1C6E31F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5CDDC6-C035-82E3-E69E-128E1C6E31F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5CDDC6-C035-82E3-E69E-128E1C6E31F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

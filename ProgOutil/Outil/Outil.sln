@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outil", "Outil.csproj", "{B97658B3-0D4B-3A52-3014-2A8B425B507F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B97658B3-0D4B-3A52-3014-2A8B425B507F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97658B3-0D4B-3A52-3014-2A8B425B507F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97658B3-0D4B-3A52-3014-2A8B425B507F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97658B3-0D4B-3A52-3014-2A8B425B507F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
